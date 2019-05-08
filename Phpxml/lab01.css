@@ -1,0 +1,17 @@
+empList
+{
+display: block;
+width: 100%;
+}
+employee
+{
+display: block;
+}
+name, phone, e_mail
+{
+    display: block;
+}
+address
+{
+    display: block;
+}
