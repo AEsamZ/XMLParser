@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<employee city="dasd" phone="111111111111111" e_mail="dasd@dasd.com">
+		<name>Ahmed</name>
+		<phones>
+			<phone type="home">3335556</phone>
+			<phone type="mobile">01122999999</phone>
+		</phones>
+		<addresses>
+			<address>
+				<street>any street</street>
+				<buildingNo>15</buildingNo>
+				<region>any region</region>
+				<city>Alex</city>
+				<country>Egypt</country>
+			</address>
+		</addresses>
+		<e_mail>ahmed@ahmed.com</e_mail>
+	<employee><name>ahmed esam</name><phones><phone>01010101010</phone></phones><addresses><address><city>Isamilia</city></address></addresses><e_mail>ahmed.esam5996@gmail.com</e_mail><city>Isamilia</city><phone>01010101010</phone><email>ahmed.esam5996@gmail.com</email></employee><employee><name>zyad</name><phones><phone>0000000000</phone></phones><addresses><address><city>alex</city></address></addresses><e_mail>zyad@zyad.com</e_mail><city>Cairo</city><phone>0000000000</phone><email>zyad@zyad.com</email></employee><employee><name>abdelhay</name><phones><phone>0155555555</phone></phones><addresses><address><city>agamy</city></address></addresses><e_mail>abdelhay@abdelhay.com</e_mail></employee></employee>
